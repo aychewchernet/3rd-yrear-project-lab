@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Table form</title>
+</head>
+<body>
+<h2>Sample Table</h2>
+<table border="1">
+  <tr>
+    <th>Number</th>
+    <th>First Name</th>
+    <th>Last Name</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>boru</td>
+    <td>daniel</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>abdata</td>
+    <td>gadisa</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>kumasa</td>
+    <td>jarso</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+<form> 
+<fieldset><legend>reg</legend>
+           first name : <input type="text"/><br>
+           last name :<input type="text"/><br>
+<select>
+<option>information</option>
+<option>system</option>
+<option>mathimathics</option>
+<option>chemistry</option>
+<option> biology</option>
+</select>
+</label><br> <input type="radio" name="sex" value="ale"> Male <br> 
+
+<input type="radio" name="sex" value="female"> Female<br>
+
+password:<input type="password"/><br>
+           <input type="number"/><br>
+<input type ="button" name ="submit" value ="Submit"><br>
+         </form>
+        </body>
+    </head>
+</fieldset>
+</html>
